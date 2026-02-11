@@ -188,6 +188,4 @@ If you are using private modules and receive a `option requires an argument -- a
 
 Issues and pull requests are welcome! For major changes, including interface changes, please open an issue first to discuss what you would like to change. [Join our community Slack channel](https://www.infracost.io/community-chat), we are a friendly bunch and happy to help you get started :)
 
-## License
 
-[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
